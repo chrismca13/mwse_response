@@ -28,3 +28,7 @@
 * Team Members average response is denoted by the Maize dot, and team leaders' average response is the Blue dot.
 <img width="1012" height="873" alt="image" src="https://github.com/user-attachments/assets/090da140-aabc-4136-b612-cd5655dd4486" />
 
+### 5. Text Response
+* A small number of participants responded in the optional text box.
+* The best way to analyze these are to go to the `data/` folder above, open the `.csv`, and scroll all the way to the right to read them individually
+
