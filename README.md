@@ -1,7 +1,7 @@
 # MWSE - Executive Leadership Analysis
 
 ### 1. Exporting the Data
-*  To export the data from Survey Monkey, log in with the following username" `careers@mwse.org`.
+*  To export the data from Survey Monkey, log in with the following username `careers@mwse.org`.
 *  Reach out to Lisa McAllister for the password.
 *  There are two surveys to analyze - one from the leadership team and one from invidiual team members.
 *  When exporting the data, be sure to choose "ALL RESPONSE DATA", rather than "SUMMARY DATA." See below:
